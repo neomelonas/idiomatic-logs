@@ -1,0 +1,13 @@
+stats from logs:
+
+a user has stats of K A D DMG TimePlayed MatchesPlayed HS BS SB MedPicks Caps HealsRec HealsGiven UC UD KonOpposite
+   maybe do kills and deaths from/by classes?
+
+a game has crazyass logs.
+
+overview has a list of users with K A D KA/D K/D DMG DPM DPD TimePlayed MatchesPlayed HS BS SB MedPicks UC UD
+
+options of doing either just matches or matches and scrims
+  if matches, can import logs.tf logs direct from logs.tf, in json.  ss stats will need hand delivered.
+  
+determine a way to parse sizzlingstats?
