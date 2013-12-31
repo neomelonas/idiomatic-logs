@@ -11,3 +11,12 @@ options of doing either just matches or matches and scrims
   if matches, can import logs.tf logs direct from logs.tf, in json.  ss stats will need hand delivered.
   
 determine a way to parse sizzlingstats?
+
+
+- only take match stats. this will make life incredibly easier.
+- sizzling json from: http://sizzlingstats.com/api/Stats/ :matchid
+- logs.tf  json from: http://logs.tf/json/ :matchid
+
+with some matches, logs are split between both sites
+with all matches on the idiomatic-esports servers, halves are logged in distinct :matchids
+ - provide a means to distinguish for imports.
